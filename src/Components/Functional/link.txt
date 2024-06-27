@@ -1,0 +1,8 @@
+06/27/24
+link to github:
+https://github.com/latoyadsimon/name-that-fish-js-unsolved.git
+
+-vscode is formatted with prettier, it is working now (on local machine atm)
+
+notes:
+when using devtools, make sure to check the filter is empty
